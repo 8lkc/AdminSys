@@ -1,6 +1,9 @@
 <h1 align="center">
     <img src="./assets/system-administration.png" alt="virtual-machine">
-    <br>SYSTEM ADMINISTRATION
+    <br>
+    <img src="https://github.com/JaKooLit/Telegram-Animated-Emojis/blob/main/Activity/Sparkles.webp" alt="Sparkles" width="38" height="38" />
+    SYSTEM ADMINISTRATION
+    <img src="https://github.com/JaKooLit/Telegram-Animated-Emojis/blob/main/Activity/Sparkles.webp" alt="Sparkles" width="38" height="38" />
 </h1>
 
 This repository is a branch of the 01 curriculum and represents a series of projects focused on system administration.
@@ -10,3 +13,4 @@ This repository is a branch of the 01 curriculum and represents a series of proj
 | # | Project |
 | --- | --- |
 | 01 | [Linux](./linux/README.md) |
+
