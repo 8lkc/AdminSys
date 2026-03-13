@@ -6,8 +6,9 @@
 </h1>
 
 <p align="center">
-    This is a series of projects that will introduce us to a Linux distribution called `Debian` and its use on servers (*computers that run continuously and provide the services needed by the Internet and applications*).
-    <br>It will also allow us to learn some tricks to better control our machine and servers.<br>
+    Linux is the most widely used kernel (the core of an operating system).<br>
+    It can be found everywhere there is a computer : data centers, phones, gaming consoles, cars, planes, submarines, space stations...<br>
+    And operating systems using the Linux kernel are called "Linux distributions".<br>
     <img src="./assets/tux.png" alt="sitting-penguin">
 </p>
 
@@ -15,6 +16,9 @@
 > « But this wasn't to be just any penguin. Above all, Linus wanted one that looked happy, as if it had just polished off a pitcher of beer and then had the best sex of its life. »
 >
 > *Just for Fun: The Story of an Accidental Revolutionary* (Linus Torvalds, David Diamond)
+
+This is a series of projects that will introduce us to a Linux distribution called `Debian` and its use on servers (*computers that run continuously and provide the services needed by the Internet and applications*).\
+It will also allow us to learn some tricks to better control our machine and servers
 
 ## 📽️ Virtualization
 
@@ -27,11 +31,11 @@ However, in our case, we will use `QEMU/KVM` on our `Ubuntu desktop` (host syste
 
 ## 🛣️ Roadmap
 
-> [!IMPORTANT]
-> Each project has its own README file with the scope, goals, and instructions.
-
 <pre>
     01
     ⦿━━━━---
 <a href="./linux/README.md"><kbd> <br>  <strong>Linux</strong>  <br> </kbd></a>
 </pre>
+
+> [!IMPORTANT]
+> Each project has its own README file with the scope, goals, and instructions.
