@@ -5,7 +5,27 @@
     <img src="https://github.com/JaKooLit/Telegram-Animated-Emojis/blob/main/Activity/Sparkles.webp" alt="Sparkles" width="45" />
 </h1>
 
-This repository is a branch of the 01 curriculum and represents a series of projects focused on system administration.
+<p align="center">
+    This is a series of projects that will introduce us to a Linux distribution called `Debian` and its use on servers (*computers that run continuously and provide the services needed by the Internet and applications*).
+    <br>It will also allow us to learn some tricks to better control our machine and servers.<br>
+    <img src="./assets/tux.png" alt="sitting-penguin">
+</p>
+
+> [!NOTE]
+> « But this wasn't to be just any penguin. Above all, Linus wanted one that looked happy, as if it had just polished off a pitcher of beer and then had the best sex of its life. »
+>
+> *Just for Fun: The Story of an Accidental Revolutionary* (Linus Torvalds, David Diamond)
+
+## 📽️ Virtualization
+
+To conduct our training in a standardized manner without risking damage to our own operating system, we will install virtualization software that is compatible with our processor’s architecture.
+
+> [!TIP]
+> The most recommended options are [VirtualBox](https://www.virtualbox.org/wiki/Downloads) for x86-64 X86-64 chips and [UTM](https://mac.getutm.app/) for Apple Silicon chips.
+
+However, in our case, we will use `QEMU/KVM` on our `Ubuntu desktop` (host system).
+
+## 🛣️ Roadmap
 
 > [!IMPORTANT]
 > Each project has its own README file with the scope, goals, and instructions.
