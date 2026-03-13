@@ -5,23 +5,30 @@
     <img src="https://github.com/JaKooLit/Telegram-Animated-Emojis/blob/main/Activity/Sparkles.webp" alt="Sparkles" width="45" />
 </h1>
 
-## Overview
-This is the first project in the system administration series. The goal is to
-set up a virtual machine, install Debian, and demonstrate you can boot the VM,
-log in, and shut it down from the command line.
+This first project mainly involves setting up a virtual machine running `Debian` (*Debian 13* in this case) and testing to make sure everything is working properly.
 
-## Audit Process
+## 📥️ Installation
 
-### Functional
-- Ask the auditee to start the virtualization software.
-- Verify the virtualization software is correctly installed on the auditee's machine.
-- Ask the auditee to show their VM with a version of Debian already installed.
-- Check that the virtual machine boots Debian properly (in less than 2 minutes).
-- After the boot is completed, ask the auditee to log in on the console and execute the command to shut down the VM.
-- Confirm the auditee can log in and shut down the VM using a command line from the console.
+> [!NOTE]
+> Operating systems are usually installed with a "disk image" that can be written to a USB stick or CD/DVD for installation on a computer, or kept as is for installation in a virtual machine (which is the case here).
 
-## Audit Environment
-Reference setup used for this audit:
+Install Debian (ISO installer "netinst" is recommended) in a VM (Virtual Machine). The steps are :
 
-- Virtualization: QEMU/KVM
-- VM OS: Debian 13
+- Create the VM.
+- Start the VM and attach the ISO file as an optical drive (CD/DVD).
+- Follow the steps of the installer, it will reboot with a Debian system ready to use.
+
+## 🔍️ Audit
+
+The auditor has to check if :
+
+- the virtualization software is correctly installed on the auditee's machine ;
+- the virtual machine boot Debian properly (**in less than 2 minutes**) ;
+- the auditee can log in and shut down the VM using a command line from the console.
+
+> [!IMPORTANT]
+> Use the following command 👇🏿 to shut down the VM :
+
+```bash
+sudo poweroff
+```
