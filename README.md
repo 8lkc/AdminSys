@@ -10,6 +10,8 @@ This repository is a branch of the 01 curriculum and represents a series of proj
 > [!IMPORTANT]
 > Each project has its own README file with the scope, goals, and instructions.
 
-| # | Project |
-| --- | --- |
-| 01 | [Linux](./linux/README.md) |
+<pre>
+ 01
+  o━━━
+<a href="./linux/README.md">Linux</a>
+</pre>
