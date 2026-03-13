@@ -13,6 +13,5 @@ This repository is a branch of the 01 curriculum and represents a series of proj
 <pre>
   01
   ⦿━━━━---
-<!-- <a href="./linux/README.md">Linux</a> -->
 <a href="#gallery-and-videos"><kbd> <br> Linux <br> </kbd></a>
 </pre>
