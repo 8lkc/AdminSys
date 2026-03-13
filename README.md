@@ -7,7 +7,7 @@
 
 This repository is a branch of the 01 curriculum and represents a series of projects focused on system administration.
 
-> [!INFORMATION]
+> [!IMPORTANT]
 > Each project has its own README file with the scope, goals, and instructions.
 
 | # | Project |
