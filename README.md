@@ -41,17 +41,5 @@ However, in our case, we will use `QEMU/KVM` on our `Ubuntu desktop` (host syste
 > Each project has its own README file with the scope, goals, and instructions.
 
 ---
-<table width="100%">
-  <tr>
-    <td align="left">
-      <a href="LICENSE">
-        <img src="https://img.shields.io/badge/License-MIT-yellow.svg?logo=opensourceinitiative" alt="MIT license badge">
-      </a>
-    </td>
-    <td align="right">
-      <a href="https://www.zone01dakar.sn/">
-        <img src="https://img.shields.io/badge/Zone01_-Dakar_%F0%9F%87%B8%F0%9F%87%B3-blue" alt="Zone01 Dakar badge">
-      </a>
-    </td>
-  </tr>
-</table>
+<img align="right" src="https://img.shields.io/badge/Zone01_-Dakar_%F0%9F%87%B8%F0%9F%87%B3-blue" alt="badge">
+<img align="left" src="https://img.shields.io/badge/License-MIT-yellow.svg?logo=opensourceinitiative" alt="badge">
