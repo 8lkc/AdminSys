@@ -3,10 +3,10 @@
     <br>SYSTEM ADMINISTRATION
 </h1>
 
-<h3 align="center">
+<h4 align="center">
     This repository is a branch of the 01 curriculum and represents a series of
     projects focused on system administration.
-</h3>
+</h4>
 
 Each project has its own README file with the scope, goals, and instructions.
 
