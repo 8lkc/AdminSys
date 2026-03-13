@@ -39,3 +39,7 @@ However, in our case, we will use `QEMU/KVM` on our `Ubuntu desktop` (host syste
 
 > [!IMPORTANT]
 > Each project has its own README file with the scope, goals, and instructions.
+
+---
+[![Static Badge](https://img.shields.io/badge/Zone01_-Dakar_%F0%9F%87%B8%F0%9F%87%B3-blue)](https://www.zone01dakar.sn/)&ensp;&ensp;&ensp;
+[![MIT](https://img.shields.io/badge/License-MIT-yellow.svg?logo=opensourceinitiative)](LICENSE)
