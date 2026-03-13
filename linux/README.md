@@ -1,3 +1,4 @@
-# Linux
-
-This is the first project in the system administration series.
+<h1 align="center">
+    <img src="../assets/virtual-machine.png" alt="virtual-machine">
+    <br>LINUX
+</h1>
